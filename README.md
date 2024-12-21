@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chenghao-qiu" alt="chenghao-qiu" /></a> </p>
 
-- 🔭 I’m currently working on **DNA & Protein + ML**
+- 🔭 I’m currently working on **NLP**
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **FM & LLM**
 
 - 💬 Ask me about **whatever you may interested in**
 
