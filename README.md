@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chenghao Qiu</h1>
-<h3 align="center">A student from China</h3>
+<h3 align="center">CS PhD at Texas A&M University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenghao-qiu&label=Profile%20views&color=0e75b6&style=flat" alt="chenghao-qiu" /> </p>
 
