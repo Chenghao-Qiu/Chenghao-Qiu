@@ -1,20 +1,45 @@
 <h1 align="center">Hi 👋, I'm Chenghao Qiu</h1>
-<h3 align="center">CS PhD at Texas A&M University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chenghao-qiu&label=Profile%20views&color=0e75b6&style=flat" alt="chenghao-qiu" /> </p>
+<h3 align="center">CS PhD Student at Texas A&M University</h3>
+
+<img src="https://count.getloli.com/get/@:Chenghao-Qiu?theme=3d-num" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chenghao-qiu" alt="chenghao-qiu" /></a> </p>
 
 - 🔭 I’m currently working on **NLP**
 
-- 🌱 I’m currently learning **FM & LLM**
+- 🌱 I’m currently learning **LLM incontext learning**
 
-- 💬 Ask me about **whatever you may interested in**
-
-- ⚡ Fun fact **I think I like explore new things**
+- 💬 Ask me about **FM & LLM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<!-- Personal Website -->
+<a href="https://chenghao-qiu.github.io" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Website" height="30" width="40" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/chenghao-qiu" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<!-- Google Scholar -->
+<a href="https://scholar.google.com/citations?user=ZRkB1E0AAAAJ&hl=en" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" alt="Google Scholar" height="30" width="40" />
+</a>
+
+<!-- ORCID -->
+<a href="https://orcid.org/0009-0009-1819-8012" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/orcid.svg" alt="ORCID" height="30" width="40" />
+</a>
+
+<!-- Semantic Scholar -->
+<a href="https://www.semanticscholar.org/author/Chenghao-Qiu/2358457454" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/semanticscholar.svg" alt="Semantic Scholar" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
